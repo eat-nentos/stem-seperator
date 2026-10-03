@@ -1,0 +1,6 @@
+streamlit==1.40.0
+onnxruntime==1.19.0
+numpy<2.0
+soundfile==0.12.1
+requests
+scipy
